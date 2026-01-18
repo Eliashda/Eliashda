@@ -1,12 +1,12 @@
 <img src = "cafe.gif" width = "325px" align = "right">
 
-# 😎GitHub Senai!!👍
+# 😎GitHub Elias!!👍
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elias_almenda/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:eliasalmenda64@gmail.com)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-Sou um estudante de Analise e desenvolvimento de sistema no instituto Sesi/Senai, esse Github sera utilizado apenas para os codigos e trabalhos feitos para o colegio 📚
+I am a recent graduate in Systems Analysis and Development, having completed my studies in December 2025, and I am currently pursuing a degree in Data Science. I am seeking my first professional opportunity in the Information Technology field, where I can apply my academic knowledge, continuously develop my skills, and grow professionally.
 
 - 📙Estudando Javascript  
 - 📕Estudando Java 
