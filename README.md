@@ -1,6 +1,7 @@
+
 <img src = "cafe.gif" width = "325px" align = "right">
 
-# 😎GitHub Elias!!👍
+# Welcome to me GitHub!!
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elias_almenda/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:eliasalmenda64@gmail.com)
@@ -8,9 +9,10 @@
 
 I am a recent graduate in Systems Analysis and Development, having completed my studies in December 2025, and I am currently pursuing a degree in Data Science. I am seeking my first professional opportunity in the Information Technology field, where I can apply my academic knowledge, continuously develop my skills, and grow professionally.
 
-- 📙Estudando Javascript  
-- 📕Estudando Java 
-- 📗Estudando Python
+- 📙Javascript  
+- 📕Java 
+- 📗Python
+- 📘C++
   
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
