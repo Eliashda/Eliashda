@@ -3,14 +3,14 @@
 # 👋 Welcome to my GitHub!
 
 Hello! I'm **Elias Almenda**, a passionate developer and technology enthusiast.  
-I’m a **recent graduate in Systems Analysis and Development (Dec/2025)** and currently **studying Data Science**, focused on building solid foundations and evolving continuously in the IT field.
+I’m a **recent graduate in Systems Analysis and Development (Dec/2025)** and currently **studying Softawre engineer**, focused on building solid foundations and evolving continuously in the IT field.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Graduated in **Systems Analysis and Development**
-- 📊 Currently studying **Data Science**
+- 📊 Currently studying **Softawre engineer**
 - 💼 Looking for my **first professional opportunity in IT**
 - 🧠 Constantly learning and improving my skills
 - 🎯 Interested in software development, data, and problem-solving
@@ -23,9 +23,9 @@ I enjoy transforming ideas into practical solutions through clean code, logic, a
 
 **Main languages I work with:**
 
-- 📙 JavaScript  
-- 📕 Java  
-- 📗 Python  
+- 📗 Python
+- 📙 JavaScript
+- 📕 Java 
 - 📘 C++  
 
 **Tools & Technologies:**
