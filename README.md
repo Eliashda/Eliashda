@@ -1,64 +1,88 @@
-<img src="cafe.gif" width="320px" align="right" alt="Coffee coding gif"/>
+# 👨‍💻 Elias Almenda
 
-# 👋 Welcome to my GitHub!
-
-Hello! I'm **Elias Almenda**, a passionate developer and technology enthusiast.  
-I’m a **recent graduate in Systems Analysis and Development (Dec/2025)** and currently **studying Softawre engineer**, focused on building solid foundations and evolving continuously in the IT field.
-
----
-
-## 🚀 About Me
-
-- 🎓 Graduated in **Systems Analysis and Development**
-- 📊 Currently studying **Softawre engineer**
-- 💼 Looking for my **first professional opportunity in IT**
-- 🧠 Constantly learning and improving my skills
-- 🎯 Interested in software development, data, and problem-solving
-
-I enjoy transforming ideas into practical solutions through clean code, logic, and creativity.
+🎓 Estudante de Engenharia de Software  
+💻 Formado em Análise e Desenvolvimento de Sistemas (2025)  
+🚀 Focado em Python, Banco de Dados e Desenvolvimento de Software  
 
 ---
 
-## 🛠️ Technologies & Languages
+## 🚀 Sobre mim
 
-**Main languages I work with:**
+Sou estudante de Engenharia de Software e formado em Análise e Desenvolvimento de Sistemas, com experiência em projetos acadêmicos e pessoais utilizando Python, SQL e tecnologias web.
 
-- 📗 Python
-- 📙 JavaScript
-- 📕 Java 
-- 📘 C++  
+Tenho interesse em desenvolvimento de software e busco minha primeira oportunidade como Desenvolvedor Júnior, Estagiário ou Jovem Aprendiz em TI.
 
-**Tools & Technologies:**
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="42" height="42"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="42" height="42"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="42" height="42"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="42" height="42"/>&nbsp;
-</div>
+Participei de hackathons e projetos de inovação pelo SESI/SENAI, atuando como líder de equipe, desenvolvendo soluções tecnológicas e fortalecendo habilidades como trabalho em equipe, comunicação e resolução de problemas.
 
 ---
 
-## 🌐 Connect With Me
+## 🛠️ Tecnologias e Ferramentas
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elias_almenda/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:eliasalmenda64@gmail.com)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-Almenda&layout=compact&theme=neon&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elias-Almenda&show_icons=true&theme=neon&count_private=true"/>
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 ---
 
-## ✨ Final Note
+## 📌 Projetos em Destaque
 
-> *"Learning never stops — every line of code is a step forward."*
 
-Thanks for visiting my profile!  
-Feel free to explore my repositories and connect with me 🚀
+🔹 **Projeto Web (HTML, CSS e JavaScript)**  
+Desenvolvimento de interface web com foco em estrutura, estilização e interatividade  
+
+🔹 **Projetos de Lógica de Programação**  
+Resolução de problemas e construção de algoritmos utilizando Python  
+
+🔹 **Projetos de Hackathon (SESI/SENAI)**  
+Desenvolvimento de soluções tecnológicas em equipe, com atuação como líder  
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Eliashda&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliashda&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🧩 Projetos Pessoais e Evolução Contínua
+
+Também possuo um segundo GitHub focado em projetos pessoais e experimentais, onde aplico novos conhecimentos, desenvolvo soluções próprias e evoluo constantemente minhas habilidades em programação.
+
+Esse repositório representa minha prática contínua fora do ambiente acadêmico, reforçando meu comprometimento com aprendizado e desenvolvimento na área de tecnologia.
+
+🔗 Confira: https://github.com/Elias-Almenda
+
+---
+
+## 🚀 Objetivo
+
+Atualmente buscando minha primeira oportunidade na área de TI como Desenvolvedor Júnior, Estagiário ou Jovem Aprendiz, com foco em aprendizado contínuo e crescimento profissional.
+
+---
+
+## 📫 Contato
+
+<p>
+  <a href="mailto:eliasalmenda64@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/elias-padilha-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Eliashda">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ Obrigado por visitar meu perfil!
